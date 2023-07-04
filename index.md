@@ -5,4 +5,4 @@ Este repositorio contiene una terea de casen. [Choque. J y Hernandez. N](https:/
 
 ![](images/Colorindo.jpg)
 
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<Tomada_por_mi>
